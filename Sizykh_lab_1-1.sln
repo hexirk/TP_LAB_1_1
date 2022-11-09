@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sizykh_lab_1-1", "Sizykh_lab_1-1\Sizykh_lab_1-1.csproj", "{EA408D98-9684-4261-B751-ED0BE35B128A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sizykh_lab_1-1Tests", "Sizykh_lab_1-1Tests\Sizykh_lab_1-1Tests.csproj", "{CCCDA60F-C34D-4D98-ACD5-391DC1ACF50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA408D98-9684-4261-B751-ED0BE35B128A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA408D98-9684-4261-B751-ED0BE35B128A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA408D98-9684-4261-B751-ED0BE35B128A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA408D98-9684-4261-B751-ED0BE35B128A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCDA60F-C34D-4D98-ACD5-391DC1ACF50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCDA60F-C34D-4D98-ACD5-391DC1ACF50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCDA60F-C34D-4D98-ACD5-391DC1ACF50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCDA60F-C34D-4D98-ACD5-391DC1ACF50A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A294BA-31DC-49C8-8486-9917DFAD169B}
+	EndGlobalSection
+EndGlobal
